@@ -1,0 +1,64 @@
+[2025-05-03T22:45:39.080Z] Error: Binance API error: Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:43:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:45:39.089Z] Error: Binance API error: Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:43:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:45:44.029Z] Error: Binance API error: Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:43:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:45:49.029Z] Error: Binance API error: Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:43:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:45:54.028Z] Error: Binance API error: Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:43:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:45:59.030Z] Error: Binance API error: Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:43:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:46:04.029Z] Error: Binance API error: Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:43:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:46:09.029Z] Error: Binance API error: Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:43:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:46:14.028Z] Error: Binance API error: Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:43:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:46:19.030Z] Error: Binance API error: Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:43:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:46:24.028Z] Error: Binance API error: Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:43:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:51:05.855Z] Error: CoinGecko API error: Unknown error
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:42:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:51:10.863Z] Error: CoinGecko API error: Unknown error
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:42:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:51:15.853Z] Error: CoinGecko API error: Unknown error
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:42:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:51:20.855Z] Error: CoinGecko API error: Unknown error
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:42:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
+[2025-05-03T22:51:25.852Z] Error: CoinGecko API error: Unknown error
+    at TradeService.getCurrentPrice (/project/sandbox/user-workspace/backend/services/tradeService.js:42:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /project/sandbox/user-workspace/backend/routes/trade.js:29:19
